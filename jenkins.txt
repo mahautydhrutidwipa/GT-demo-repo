@@ -1,0 +1,6 @@
+install jdk
+set the path for the environmental variable for jdk
+download and install jenkins
+run jenkins on locallhost 8080
+jenkins server interface
+build and run a job on jenkins
